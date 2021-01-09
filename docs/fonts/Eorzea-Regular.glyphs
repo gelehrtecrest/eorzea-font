@@ -1,10 +1,7 @@
 {
-.appVersion = "1286";
-DisplayStrings = (
-Z
-);
+.appVersion = "3039";
 copyright = MIT;
-date = "2020-03-07 17:10:05 +0000";
+date = "2021-01-09 05:31:22 +0000";
 designer = "Gelehrte Crest";
 designerURL = "http://gelehrte.com";
 familyName = Eorzea;
@@ -4061,10 +4058,11 @@ unicode = 002D;
 },
 {
 glyphname = space;
+lastChange = "2021-01-09 05:31:08 +0000";
 layers = (
 {
 layerId = "4CCF3E11-34F0-4D6E-A638-D119D8A2B44F";
-width = 600;
+width = 200;
 }
 );
 unicode = 0020;
@@ -4082,5 +4080,5 @@ manufacturer = "Gelehrte Crest";
 manufacturerURL = "http://gelehrte.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
