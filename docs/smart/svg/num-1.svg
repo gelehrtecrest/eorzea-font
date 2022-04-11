@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2048 2048" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="レイヤー5">
+        <g id="レイヤー4">
+        </g>
+        <g transform="matrix(1.29241,0,0,1.29241,-533.04,-599.126)">
+            <path d="M1030.02,466.674C1228.29,464.327 1416.22,594.272 1461.43,652.778C1497.04,698.84 1410.25,777.607 1341.03,778.476C1262.61,779.462 1250.9,621.077 1045.83,621.037C966.933,621.021 851.146,661.64 848.574,783.124C845.476,929.501 845.503,1170.42 844.83,1325.82C843.339,1670.41 460.331,1731.25 436.396,1731.2C414.535,1731.16 414.014,1731.39 413.847,1721.71C413.662,1711.04 681.745,1561.85 684.32,1414.04C687.024,1258.78 688.245,941.355 686.177,780.018C684.169,623.388 814.798,469.222 1030.02,466.674Z" style="stroke:black;stroke-width:0.77px;"/>
+        </g>
+    </g>
+</svg>
