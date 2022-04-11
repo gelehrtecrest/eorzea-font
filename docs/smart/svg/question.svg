@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2048 2048" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="レイヤー5">
+        <g transform="matrix(1,0,0,1,-205.197,0)">
+            <path d="M204.185,515.967C203.786,561.511 215.457,609.99 308.306,611.896C429.996,614.394 301.566,194.001 715.101,202.046C892.51,205.497 931.566,289.257 931.414,410.001C931.262,530.245 659.263,806.544 616.262,928.271C560.52,1086.06 623.594,1231.37 721.968,1225.88C818.161,1220.52 783.986,956.706 921.843,822.464C1041.12,706.316 1134.22,640.695 1138.88,403.304C1142.71,208.525 1024.88,4.386 724.36,2.369C314.321,-0.383 205.073,414.695 204.185,515.967Z" style="stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(1.04053,0,0,1.54667,-495.182,-958.717)">
+            <circle cx="970.699" cy="1579.95" r="100.252"/>
+        </g>
+    </g>
+</svg>
